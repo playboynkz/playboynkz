@@ -2,7 +2,7 @@
 
 - 💻 Entusiasta na área de programação.
 - 🔭 Games, programming and food.
-- 🖥 JavaScript (TypeScript) & Python.
+- 🖥 JavaScript (TypeScript and Node.JS) & Python.
 
 <!--
 <h3> ⚙️  GitHub Analytics </h3>
