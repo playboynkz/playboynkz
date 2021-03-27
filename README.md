@@ -15,4 +15,3 @@
 - 📫 Como chegar até mim: [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/playboynkz)](https://github.com/playboynkz)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/playboynkz)](https://twitter.com/playboynkz)
 [![Twitch Badge](https://img.shields.io/badge/-Twitch-purple?style=flat-square&logo=Twitch&logoColor=white&link=https://twitch.com/playboynkz)](https://www.twitch.tv/playboynkz)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/playboynk/)](https://www.instagram.com/playboynk/)
