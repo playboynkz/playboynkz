@@ -1,6 +1,6 @@
 ## About me
 
-- 💻 Entusiasta na área de programação.
+- 💻 Apenas um analista na área de programação.
 - 🔭 Games, programming and food.
 - 🖥 JavaScript (TypeScript and Node.JS) & Python.
 
